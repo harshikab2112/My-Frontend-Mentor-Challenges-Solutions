@@ -41,7 +41,7 @@ If you’d like to give feedback on any solution, feel free to comment directly 
 
 You can also reach out here:  
 📧 [Email](mailto:hinabansal321@gmail.com)  
-🔗 [GitHub](https://github.com/harshikab2112)
+🔗 [GitHub](https://github.com/harshikab2112)  
 🔗 [LinkedIn](https://www.linkedin.com/in/harshika-bansal/)
 
 ---
